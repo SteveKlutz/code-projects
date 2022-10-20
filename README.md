@@ -1,3 +1,3 @@
 # code-projects
-Steven Klotz Coding Projects
-Started Oct. 20, 2022
+Steven K Coding Projects
+Start date: 10-20-2022
