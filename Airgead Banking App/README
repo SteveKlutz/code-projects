@@ -1,0 +1,21 @@
+  Airgead Banking has requested an application to be created that is mainly focused on investing and the power of compound interest.
+It will allow users to see how their investments will grow over time. 
+I believe I did particularly well with keeping the functions in a separate source file and declarations in a header file 
+so that main source file stayed short, simple, and straight to the point.
+
+  I could’ve enhanced my code with simplifying some functions. 
+There were workarounds that I was not aware of at the time that could have removed several lines
+and made the overall project easier to read through and determine where to add future additions.
+
+  I found that keeping everything in a nice, clean format was challenging as I wrote the project code.
+I would often type lots of code and add many comments that may have been unnecessary and would just cause clutter and make the code less readable.
+Also, remembering to continuously test the code was difficult for me. This made it harder to find specific syntax errors or bugs.  
+
+  Learning to combine source files and header files with the main source file and getting them to communicate
+simultaneously and correctly was a great skill to learn. This will be incredibly useful for any future project. 
+
+  As I mentioned earlier, I tend to ramble notes in my code to help my thought process and keep it fresh on my mind,
+but this can cause some visible clutter issues. Going through and removing unnecessary comments was time-consuming,
+but I kept many of them that could possibly help me in the future if I ever come back to this project.
+Also, keeping function declarations in the header file, their contents in a separate source file,
+and the main function in the main source file made it much easier if I went back to made additions or changes.
