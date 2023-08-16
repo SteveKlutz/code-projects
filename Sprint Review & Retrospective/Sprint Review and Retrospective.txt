@@ -2,12 +2,7 @@
 Sprint Review and Retrospective
 
       Throughout the process of completing our SNHU travel project, each role of the team 
-played a big part that led to this project's great success. As for me, the Scrum Master, I executed 
-the Sprint Planning efficiently by guiding the team through the meeting and keeping everyone on 
-the right course. Daily Scrum meetings were handled very similarly to the Spring Planning, but 
-with more hands-on actions with the Product Owner and developers with things like maintaining 
-the Sprint Backlog. Also, working to keep every objective on a tight schedule was difficult, but 
-necessary, and led to an outstanding outcome.
+played a big part that led to this project's great success. As for me, the Scrum Master, I executed the Sprint Planning efficiently by guiding the team through the meeting and keeping everyone on the right course. Daily Scrum meetings were handled very similarly to the Spring Planning, but with more hands-on actions with the Product Owner and developers with things like maintaining the Sprint Backlog. Also, working to keep every objective on a tight schedule was difficult, but necessary, and led to an outstanding outcome.
 	Of course, none of this could be done without the efforts of the rest of the team. The 
 Product Owner established effective communication by showing transparency with users and/or 
 stakeholders and constantly influencing collaboration by allowing everyone to feel open and 
@@ -19,9 +14,7 @@ members to obtain more information and consistently performing active listening 
 displaying and encouraging empathy, which can urge conversations to lean toward a more 
 positive and productive result. They collaborated effectively with other team members to work 
 on user stories and of course design, code, and test based on those user stories. 
-	Finally, the testers faithfully executed all necessary tests and worked tirelessly to identify 
-and take note of any defects in the process. As it is common with other projects, some user 
-stories were short of little important information, along with a couple points of acceptance 
+	Finally, the testers faithfully executed all necessary tests and worked tirelessly to identify and take note of any defects in the process. As it is common with other projects, some user stories were short of little important information, along with a couple points of acceptance 
 criteria that had to be clarified before moving any further with testing. If any roadblocks were 
 presented in this way, the testers approached the Product Owner that created the user stories with 
 a set of prepared questions that would eventually be answered.
@@ -39,9 +32,8 @@ new requirements or priorities that may present themselves. For example, if the 
 working hard to move forward on the project, but need more information, they will work 
 diligently to get all essential information from the necessary team members. 
 	As we all know and practice regularly, effective communication is extremely important 
-to the entirety of the work done on a project. For example, let's look at an email sent from one of 
-the team's developers to the Product Owner and tester requesting more information that was 
-necessary to move forward:
+to the entirety of the work done on a project. For example, let's look at an email sent from one of the team's developers to the Product Owner and tester requesting more information that was 
+necessary to move forward: 
 "Dear Product Owner and Tester,
 I hope everything is moving smoothly on the project. As for myself, there are important steps that 
 need clarification before moving forward with development under the new plan. It is my job to 
@@ -54,7 +46,6 @@ email, then your specific actions to each step listed below:
 *	More feedback on all work presented.
 *	Ongoing and steady test data to properly assess my code's performance.
 *	Perform security testing whenever required to ensure software is sound.
-
 Thank you." (Klotz, 2023, p. 1).
 This email was straight to the point, while also encouraging any criticism and/or comments and 
 clearly listing all information that was essential to progress to the next stages of the project. 
@@ -81,9 +72,7 @@ meetings where each team member is listened to and fully understood.
 completing this project. Some of the positives are how this approach encourages constant 
 feedback and improvement, clear communication between all members, and adaptability to any 
 possible changes or roadblocks that may present themselves during any stage in the process.
-	Some of the negatives to this approach are its ultimately unclear timeline due to its strong 
-adaptability, high unpredictability with possible delivery dates, and possible scope changes that 
-can cause abundant challenges.
+	Some of the negatives to this approach are its ultimately unclear timeline due to its strong adaptability, high unpredictability with possible delivery dates, and possible scope changes that can cause abundant challenges.
       Even with all the mentioned negatives to its approach, I do believe that Scrum-agile was 
 the best option for the SNHU Travel development project. I strongly feel this way due to its way 
 of handling and adapting to any possible uncertainties, which are truly inevitable, how it keeps 
